@@ -1,0 +1,48 @@
+<ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/articles/list">Proizvodi</a></li>
+    <li class="breadcrumb-item active"><a href="/articles/list">Uređivanje</a></li>
+</ol>
+<h1 class="display-4">Uredi proizvod</h1>
+<form method="post" action="/articles/update/<%= article.id %>">
+    <div class="form-group">
+        <label for="naziv">Naziv</label>
+        <input type="text" name="naziv" class="form-control" value="<%= article.naziv %>">
+    </div>
+    <div class="form-group">
+            <label for="atk">Atk</label>
+            <input type="text" name="atk" class="form-control" value="<%= article.atk %>">
+    </div>
+    <div class="form-group">
+            <label for="sastav">Sastav</label>
+            <input type="text" name="sastav" class="form-control" value="<%= article.sastav %>">
+    </div>
+    <div class="form-group">
+            <label for="terapijsko_podrucke">Terapijsko područje</label>
+            <input type="text" name="terapijsko_podrucje" class="form-control" value="<%= article.terapijsko_podrucje %>">
+    </div>
+    <div class="form-group">
+            <label for="drzava">Država</label>
+            <input type="text" name="drzava" class="form-control" value="<%= article.drzava %>">
+    </div>
+    <div class="form-group">
+            <label for="pakiranje">Pakiranje</label>
+            <input type="text" name="pakiranje" class="form-control" value="<%= article.pakiranje %>">
+    </div>
+    <div class="form-group">
+                <label for="brend">Brend</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                <% _.each(article, function(article) { %>
+                <option value="<%= article.brend %>" name="brend"><%= article.brend %></option>
+                <%}) %>
+                </select>
+        </div>
+    <div class="form-group">
+            <label for="opis">Opis</label>
+            <textarea name="opis" class="form-control"><%= article.opis %></textarea>
+    </div>
+    <input type="submit" value="Zapiši" class="btn btn-success">
+    <a href="/articles/list/" class="btn btn-outline-secondary">Izlaz</a>
+</form>
+<form>
+        <input type="hidden" name="_csrf" value="<%= _csrf %>" />
+</form>
