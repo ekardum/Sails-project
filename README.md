@@ -22,7 +22,7 @@ This app was originally generated on Sat Mar 16 2019 12:06:27 GMT+0100 (Central 
 This project's boilerplate is based on an expanded seed app provided by the [Sails core team](https://sailsjs.com/about) to make it easier for you to build on top of ready-made features like authentication, enrollment, email verification, and billing.  For more information, [drop us a line](https://sailsjs.com/support).
 
 1. Login screen
-![Login screen](https://previews.dropbox.com/p/thumb/AAaCpusMe088M7ffCxlRNKrS8iURWsm65TQy5rOBzT6YQG37TXw-oxEwKDCqNSIRAfsSAfiMaRpZ-9kJmoF5JRhl0mhePGo8E_oOvCIeEYvPZe9Yw-HYcXnP0WfoYMQZp2GBQ6YOI2fyy81J1KI99rpVQEh6jbobRlc0tI5uk5ZOT8Db9ht7J3oYcFyEx0eL1H8E07jevQsUCVbIMDfnhBxCUIKwuaWK9iFRi_3eSkkwyz5dkR-uBGXFsUfEmKtf8tzBkf0vTwnp6j663GcLmtKiIdjeNkXHw34XUZS8gLfoI0msrC1teqqpBq5hFjxwQs0epdsLEM4CXUhHFvmgkKFR/p.jpeg?fv_content=true&size_mode=5 "Login screen")
+![image](https://previews.dropbox.com/p/thumb/AAaCpusMe088M7ffCxlRNKrS8iURWsm65TQy5rOBzT6YQG37TXw-oxEwKDCqNSIRAfsSAfiMaRpZ-9kJmoF5JRhl0mhePGo8E_oOvCIeEYvPZe9Yw-HYcXnP0WfoYMQZp2GBQ6YOI2fyy81J1KI99rpVQEh6jbobRlc0tI5uk5ZOT8Db9ht7J3oYcFyEx0eL1H8E07jevQsUCVbIMDfnhBxCUIKwuaWK9iFRi_3eSkkwyz5dkR-uBGXFsUfEmKtf8tzBkf0vTwnp6j663GcLmtKiIdjeNkXHw34XUZS8gLfoI0msrC1teqqpBq5hFjxwQs0epdsLEM4CXUhHFvmgkKFR/p.jpeg?fv_content=true&size_mode=5)
 
 
 <!--
