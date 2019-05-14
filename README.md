@@ -21,8 +21,8 @@ This app was originally generated on Sat Mar 16 2019 12:06:27 GMT+0100 (Central 
 
 This project's boilerplate is based on an expanded seed app provided by the [Sails core team](https://sailsjs.com/about) to make it easier for you to build on top of ready-made features like authentication, enrollment, email verification, and billing.  For more information, [drop us a line](https://sailsjs.com/support).
 
-1. Login screen
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pictor_A_composite.jpg/220px-Pictor_A_composite.jpg)
+1. Login screen </br>
+![image](/screenshots/screenshot1.jpg)
 
 
 <!--
