@@ -22,6 +22,7 @@ This app was originally generated on Sat Mar 16 2019 12:06:27 GMT+0100 (Central 
 This project's boilerplate is based on an expanded seed app provided by the [Sails core team](https://sailsjs.com/about) to make it easier for you to build on top of ready-made features like authentication, enrollment, email verification, and billing.  For more information, [drop us a line](https://sailsjs.com/support).
 
 <h1>1. Login screen</h1> </br>
+
 ![image](https://github.com/ekardum/sails-project/blob/master/screenshots/screenshot_1.jpg?raw=true)
 
 
