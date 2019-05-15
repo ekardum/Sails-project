@@ -28,22 +28,22 @@ This project's boilerplate is based on an expanded seed app provided by the [Sai
 <h1>2. Registracija korisničkog računa</h1> </br>
 <p>Na ovom ekranu moguće je kreirati novi korisnički račun.</p>
 
-![image](https://github.com/ekardum/sails-project/blob/master/screenshots/screenshot_5.jpg?raw=true)
+![image](https://github.com/ekardum/sails-project/blob/master/screenshots/5.jpg?raw=true)
 
 <h1>3. Interaktivni report proizvoda</h1> </br>
 <p>Na ovom ekranu moguće je sortirati kolone, pretraživati retke, odabrati broj redaka po stranicama i napraviti izvoz podataka u CSV formatu. To je također moguće i na ekranu sa izvještajem brendova.</p>
 
-![image](https://github.com/ekardum/sails-project/blob/master/screenshots/screenshot_2.jpg?raw=true)
+![image](https://github.com/ekardum/sails-project/blob/master/screenshots/2.jpg?raw=true)
 
 <h1>3. Ekran za izmjenu podataka o proizvodima</h1> </br>
 <p>Na ovom ekranu moguće je mijenjati detalje proizvoda, odabrati brend proizvoda iz selectliste i spremiti promjene u bazu.</p>
 
-![image](https://github.com/ekardum/sails-project/blob/master/screenshots/screenshot_3.jpg?raw=true)
+![image](https://github.com/ekardum/sails-project/blob/master/screenshots/3.jpg?raw=true)
 
 <h1>3. Ekran za izmjenu podataka korisničkog računa</h1> </br>
 <p>Na ovom ekranu moguće je promijeniti podatke o korisničkom računu.</p>
 
-![image](https://github.com/ekardum/sails-project/blob/master/screenshots/screenshot_4.jpg?raw=true)
+![image](https://github.com/ekardum/sails-project/blob/master/screenshots/4.jpg?raw=true)
 
 <!--
 Note:  Generators are usually run using the globally-installed `sails` CLI (command-line interface).  This CLI version is _environment-specific_ rather than app-specific, thus over time, as a project's dependencies are upgraded or the project is worked on by different developers on different computers using different versions of Node.js, the Sails dependency in its package.json file may differ from the globally-installed Sails CLI release it was originally generated with.  (Be sure to always check out the relevant [upgrading guides](https://sailsjs.com/upgrading) before upgrading the version of Sails used by your app.  If you're stuck, [get help here](https://sailsjs.com/support).)
